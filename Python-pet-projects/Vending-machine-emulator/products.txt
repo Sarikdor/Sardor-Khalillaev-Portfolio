@@ -1,0 +1,16 @@
+Lays;4000;10;12
+Snickers;7000;10;10
+IceTea;5000;10;11
+Bruni;4000;10;13
+Rokki_Krokki;6000;10;14
+Nesquik;5000;10;15
+Chocopie;4000;10;20
+Nuts;6000;10;21
+Barni;5000;10;22
+Kit_Kat;6000;9;23
+Crafers;9000;10;24
+Pepsi;7000;10;25
+Pepsi;7000;10;30
+Pepsi;7000;10;31
+Pepsi;7000;10;32
+Adrenaline;19000;10;33

@@ -1,0 +1,9 @@
+These my pet project that I did individual and work in pairs with my teammate
+
+
+1. In the first folder "html-css-project" are my individual projects on HTML and CSS
+    during my learning process of this two languages.
+2. In the second folder "Python-pet-projects" are my pet projects wherre I perform
+   my skills with algorithms and data structure "Vending-machine-project" was my group work.
+   "bus-stop-schedule-project" shows my understanding Object Oriented Programming and 
+   how I could used it in this task.

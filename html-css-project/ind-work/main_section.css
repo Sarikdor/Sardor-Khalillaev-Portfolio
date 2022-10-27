@@ -1,0 +1,105 @@
+
+.navigation{
+    width: 100%;
+    height: 46.5px;
+    color: white;
+    background-color: #000;
+
+    display: flex;
+    width: 100%;
+    justify-content: space-between !important;
+}
+.navigatiion_list{
+    display: flex;
+    flex-direction: row;
+}
+.navigatiion_list_item{
+    
+    list-style-type: none;
+}
+.navigatiion_list_item_link{
+    font-family: "Lato";
+    padding: 12px 24px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+    font-size: 15px;
+    display: block;
+}
+.navigatiion_list_item:hover{
+    background: #d9d9d9;
+    
+}
+.navigatiion_list_item_link:hover{
+    color: #000;
+}
+.search_icon{
+    padding: 15px 30px;
+}
+.search_icon:hover{
+    background-color: crimson;
+}
+.main_section_img{
+    width: 100%;
+
+}
+.main_section_title {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 24px;
+    text-align: center;
+    font-weight: 300;
+
+}
+.main_section_text{
+    font-family: 'Segoe UI', Arial, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 300;
+}
+.block_1{
+    position:relative;
+    color: white;
+}
+.main_section_info{
+    margin-bottom: 10px 0 ;
+    z-index: 2;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50% , -50%);
+
+}
+@media screen and (max-width: 600px) {
+    .transperet{
+        display:none;
+    }
+    .main_section_info{
+        display: none;
+    }
+    .name{
+        display: flex;
+        flex-direction: column !important;
+    }
+    .ticket_card_container{
+        flex-direction: column !important;
+        gap: 16px 0 !important; 
+
+    }
+    .adress_form_box {
+        flex-direction: column !important;
+    }
+    .name_email_inputs{
+        flex-direction: column !important;
+        
+    }
+    .form_box{
+        width: 100% !important;
+    }
+    
+}
+
+
+
+
+
+

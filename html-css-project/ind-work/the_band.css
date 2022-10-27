@@ -1,0 +1,36 @@
+.the_band_info{
+    margin: auto;
+    max-width: 800px;
+    padding: 64px 16px;
+    text-align: center;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+.the_band_title{
+    padding: 10px 0;
+    font-size: 30px;
+    letter-spacing: 2px;
+    font-weight: 300;
+    text-transform: uppercase;
+}   
+.sub_title{
+    padding: 15px 0;
+    font-size: 15px;
+    font-style: italic;
+    color: #727272;
+}
+.the_band_text{
+    padding: 15px 0;
+    text-align: start;
+    font-size: 15px;
+    line-height: 1.5;
+}
+.name{
+    display: flex;
+    flex-direction: row;
+    padding: 32px 0;
+}
+
+.name_img{
+    width: 60%;
+    margin: 16px 0;
+}

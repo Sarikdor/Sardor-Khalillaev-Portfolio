@@ -1,0 +1,70 @@
+.fourth-section{
+   width: 100%;
+   padding: 120px 200px;
+   background: url(/images/Group_4.png) no-repeat 66px 150px / 540px 608.59px;
+}
+.fourth-section-container{
+    width: 1200px;
+    height: 688px;
+}
+.accordion-block {
+    width: 540px;
+    height: 608px;
+    padding-left: 660px;
+}
+.accordion-heading{
+    width: 482px;
+    height: 100px;
+    text-transform: uppercase;
+    font-family: "Oswald";
+    font-size: 40px;
+    line-height: 50px;
+    letter-spacing: 1px;
+    font-weight: 300;
+}
+.accordion-text {
+    width: 482px;
+    height: 148px;
+    font-size: 15px;
+    padding-top: 48px;
+    line-height: 26px;
+    font-family: "Roboto";
+}
+
+.accordion{
+    width: 500px;
+    border-radius: 10px;
+    box-shadow:  0 4px 4px 0 #00000020;
+}
+.accordion-body{
+    padding: 10px 30px;
+}
+.accordion-button{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    text-align: left;
+    width:100%;
+    text-transform: uppercase;
+}
+.accordion-button:hover{
+    background: #e6e6e6;
+    cursor: pointer;
+}
+.accordion-button:active{
+    background: #d4d4d4;
+}
+.accordion-collapse {
+    visibility: hidden;
+    height: 0;
+    opacity: 0;
+    transition: height 1s, opacity 1s;
+}
+.accordion-show{
+    visibility: visible;
+    height: 100px;
+    opacity: 1;
+}
+.accordion-sign{
+    color: #0057FF;
+}

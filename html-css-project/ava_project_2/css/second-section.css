@@ -1,0 +1,94 @@
+.second-section{
+   padding-top: 100px;
+   display: flex;
+   justify-content: center;
+   flex-direction: column; 
+}
+.second-section-content{
+    
+    padding-left: 300px;
+    padding-top: 100px;
+    width: 1200px;
+    height: 230px;
+    display: flex;
+    flex-direction: column;
+}
+.secont-section-info{
+    
+    width: 700px;
+    height: 230px;
+    margin-left: 250px;
+}
+.second-section-heading {
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    font-family: "Oswald";
+    font-size: 11px;
+    line-height: 22px;
+    color: #0057FF;
+    padding-right: 280px;
+    padding-bottom: 4px;
+}
+.s-s-sub-heading {
+    display: flex;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    line-height: 48px;
+}
+.second-section-heading-1 {
+    width: 314px;
+    margin-left: 77px;
+}
+.second-section-heading-2{
+    width: 468px;
+    
+}
+.second-section-text-2 {
+    width: 693px;
+    height: 52px;
+    font-family: "Roboto";
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    margin-left: -110px;
+    padding-top: 40px;
+}
+.second-section-add-info{
+    width: 100%;
+    font-family: "Oswald";
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 26px;
+}
+.second-section-add-info-box{
+    width: 100px;
+    height: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 700px;
+    margin-left: 700px;
+}
+.second-section-bg{
+    padding: 300px 120px;
+    position: absolute;
+    height: 900px;
+    width: 1440px;
+    background: url(/images/bg-tablet.png) no-repeat 120px 500px / 1200px 400px;
+    
+    margin-left: 50px;
+}
+.orange-triangle-2-section {
+    width: 200px;
+    right: 100px;
+    bottom: 10px;
+}
+.white-triangle-2-section {
+    width: 100px;
+    top: 500px;
+    left: 0px
+}
+
+
